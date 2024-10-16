@@ -24,3 +24,11 @@ The Simple Blog App is a basic Java Swing application that allows you to create 
    - After clicking "View all blog posts," you'll see a list of blog post titles.
    - Click on a title to view the full content of that blog post.
 
+## Screenshots
+
+Here are some screenshots of the Simple Blog App:
+
+![Main Menu](https://github.com/Utkarshsahhu/temp/blob/main/Screenshot%20(136).png)
+![Create Blog Post](https://github.com/Utkarshsahhu/temp/blob/main/Screenshot%20(137).png)
+![View Blog Posts](https://github.com/Utkarshsahhu/temp/blob/main/Screenshot%20(138).png)
+
